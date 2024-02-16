@@ -212,4 +212,3 @@ if ch<=7:
         ch=int(input("Enter choice:"))
 else:
     sys.exit()
-print("END")
